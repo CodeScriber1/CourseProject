@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "B+PnbneiydVkPsnzweQBvWlSsG6xYx7jJ/b/Hw3a6hw=",
+  "Source": "CourseProject.API",
+  "BasePath": "_content/CourseProject.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CourseProject.API\\wwwroot",
+      "Source": "CourseProject.API",
+      "ContentRoot": "D:\\itransation_tasks\\CourseProject\\src\\CourseProject.API\\wwwroot\\",
+      "BasePath": "_content/CourseProject.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\itransation_tasks\\CourseProject\\src\\CourseProject.API\\wwwroot\\books\\06122c32-2dbc-43a8-912c-4a9aae466a7b_Eyler funksiyasi.pdf",
+      "SourceId": "CourseProject.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\itransation_tasks\\CourseProject\\src\\CourseProject.API\\wwwroot\\",
+      "BasePath": "_content/CourseProject.API",
+      "RelativePath": "books/06122c32-2dbc-43a8-912c-4a9aae466a7b_Eyler funksiyasi.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\books\\06122c32-2dbc-43a8-912c-4a9aae466a7b_Eyler funksiyasi.pdf"
+    },
+    {
+      "Identity": "D:\\itransation_tasks\\CourseProject\\src\\CourseProject.API\\wwwroot\\books\\5ebfe21d-a54b-4b99-b429-5759eb2dd161_ChBQ (DFS).pdf",
+      "SourceId": "CourseProject.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\itransation_tasks\\CourseProject\\src\\CourseProject.API\\wwwroot\\",
+      "BasePath": "_content/CourseProject.API",
+      "RelativePath": "books/5ebfe21d-a54b-4b99-b429-5759eb2dd161_ChBQ (DFS).pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\books\\5ebfe21d-a54b-4b99-b429-5759eb2dd161_ChBQ (DFS).pdf"
+    },
+    {
+      "Identity": "D:\\itransation_tasks\\CourseProject\\src\\CourseProject.API\\wwwroot\\books\\df4b810f-d7f3-474b-961a-28a138ce4167_Eyler funksiyasi.pdf",
+      "SourceId": "CourseProject.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\itransation_tasks\\CourseProject\\src\\CourseProject.API\\wwwroot\\",
+      "BasePath": "_content/CourseProject.API",
+      "RelativePath": "books/df4b810f-d7f3-474b-961a-28a138ce4167_Eyler funksiyasi.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\books\\df4b810f-d7f3-474b-961a-28a138ce4167_Eyler funksiyasi.pdf"
+    }
+  ]
+}

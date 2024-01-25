@@ -1,0 +1,17 @@
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\bin\Debug\net7.0\CourseProject.Data.deps.json
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\bin\Debug\net7.0\CourseProject.Data.runtimeconfig.json
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\bin\Debug\net7.0\CourseProject.Data.dll
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\bin\Debug\net7.0\CourseProject.Data.pdb
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\bin\Debug\net7.0\CourseProject.Domain.dll
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\bin\Debug\net7.0\CourseProject.Domain.pdb
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\CourseProject.Data.csproj.AssemblyReference.cache
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\CourseProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\CourseProject.Data.AssemblyInfoInputs.cache
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\CourseProject.Data.AssemblyInfo.cs
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\CourseProject.Data.csproj.CoreCompileInputs.cache
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\CourseProject.Data.csproj.CopyComplete
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\CourseProject.Data.dll
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\refint\CourseProject.Data.dll
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\CourseProject.Data.pdb
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\CourseProject.Data.genruntimeconfig.cache
+D:\itransation_tasks\CourseProject\src\CourseProject.Data\obj\Debug\net7.0\ref\CourseProject.Data.dll

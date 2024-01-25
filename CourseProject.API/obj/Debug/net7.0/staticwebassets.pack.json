@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\itransation_tasks\\CourseProject\\src\\CourseProject.API\\wwwroot\\books\\06122c32-2dbc-43a8-912c-4a9aae466a7b_Eyler funksiyasi.pdf",
+      "PackagePath": "staticwebassets\\books\\06122c32-2dbc-43a8-912c-4a9aae466a7b_Eyler funksiyasi.pdf"
+    },
+    {
+      "Id": "D:\\itransation_tasks\\CourseProject\\src\\CourseProject.API\\wwwroot\\books\\5ebfe21d-a54b-4b99-b429-5759eb2dd161_ChBQ (DFS).pdf",
+      "PackagePath": "staticwebassets\\books\\5ebfe21d-a54b-4b99-b429-5759eb2dd161_ChBQ (DFS).pdf"
+    },
+    {
+      "Id": "D:\\itransation_tasks\\CourseProject\\src\\CourseProject.API\\wwwroot\\books\\df4b810f-d7f3-474b-961a-28a138ce4167_Eyler funksiyasi.pdf",
+      "PackagePath": "staticwebassets\\books\\df4b810f-d7f3-474b-961a-28a138ce4167_Eyler funksiyasi.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CourseProject.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CourseProject.API.props",
+      "PackagePath": "build\\CourseProject.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CourseProject.API.props",
+      "PackagePath": "buildMultiTargeting\\CourseProject.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CourseProject.API.props",
+      "PackagePath": "buildTransitive\\CourseProject.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

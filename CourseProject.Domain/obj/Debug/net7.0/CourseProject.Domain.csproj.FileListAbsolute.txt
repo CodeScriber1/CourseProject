@@ -1,0 +1,12 @@
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\bin\Debug\net7.0\CourseProject.Domain.deps.json
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\bin\Debug\net7.0\CourseProject.Domain.dll
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\bin\Debug\net7.0\CourseProject.Domain.pdb
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\obj\Debug\net7.0\CourseProject.Domain.csproj.AssemblyReference.cache
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\obj\Debug\net7.0\CourseProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\obj\Debug\net7.0\CourseProject.Domain.AssemblyInfoInputs.cache
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\obj\Debug\net7.0\CourseProject.Domain.AssemblyInfo.cs
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\obj\Debug\net7.0\CourseProject.Domain.csproj.CoreCompileInputs.cache
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\obj\Debug\net7.0\CourseProject.Domain.dll
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\obj\Debug\net7.0\refint\CourseProject.Domain.dll
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\obj\Debug\net7.0\CourseProject.Domain.pdb
+D:\itransation_tasks\CourseProject\src\CourseProject.Domain\obj\Debug\net7.0\ref\CourseProject.Domain.dll
